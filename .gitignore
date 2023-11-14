@@ -1,0 +1,21 @@
+# Generated files
+*.pyc
+*.class
+*.1.pyc
+__pycache__
+/.django-project/
+/.django-admin/
+
+
+# Static files
+static/cache/
+
+# Local settings
+*.venv
+settings_local.py
+
+# Media files
+media/
+
+
+.vscode/
